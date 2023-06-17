@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "venda",
+      "price": 14000,
+      "createdAt": "2023-05-23T13:59:06.098Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 30,
+      "createdAt": "2023-05-23T13:56:06.098Z"
+    },
+    {
+      "id": 3,
+      "description": "Magic the gathering",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 90,
+      "createdAt": "2023-05-23T13:40:06.098Z"
+    },
+    {
+      "description": "iogurte",
+      "price": 4,
+      "category": "alimentação",
+      "type": "income",
+      "createdAt": "2023-05-30T16:31:13.937Z",
+      "id": 5
+    },
+    {
+      "description": "portão",
+      "price": 3000,
+      "category": "venda",
+      "type": "income",
+      "createdAt": "2023-05-30T18:54:33.454Z",
+      "id": 6
+    },
+    {
+      "description": "computador ",
+      "price": 3000,
+      "category": "compra",
+      "type": "outcome",
+      "createdAt": "2023-06-17T15:39:50.605Z",
+      "id": 7
+    },
+    {
+      "description": "tv",
+      "price": 1800,
+      "category": "lazer",
+      "type": "outcome",
+      "createdAt": "2023-06-17T15:41:22.673Z",
+      "id": 8
+    }
+  ]
+}
