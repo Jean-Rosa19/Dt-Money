@@ -2,7 +2,7 @@
 
 ## Descrição
 Dt-Money é uma carteira virtual para controle financeiro, onde podemos registrar entradas e saídas de valores e obtermos o montante total, seja de saldo ou déficit.
-O aplicativo foi desenvolvido utilizando Vite.js, React.js e TypeScript, e através do json-server e axios,foi possivel construir uma API para melhor interação do usuário.
+O aplicativo foi desenvolvido utilizando Vite.js, React.js e TypeScript, e através do json-server e axios,foi possível construir uma API para melhor interação do usuário.
 Seguindo uma estrutura baseada em componentes e uma lógica organizada com o auxílio de props e hooks do react como useState, useEffect e contextos.
 As validações dos campos do formulário se deu através do uso da biblioteca Zod. E a estilização da interface foi implementada utilizando Styled Components e phosphor-react.
 
